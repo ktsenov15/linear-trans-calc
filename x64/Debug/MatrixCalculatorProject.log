@@ -1,0 +1,33 @@
+﻿  KMP.cpp
+D:\ktsen\Documents\AUBG\Courses\COS 221 Fundamental Data Structures\Course Project\MatrixCalculatorProject\KMP.cpp(7,21): warning C4267:  '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\ktsen\Documents\AUBG\Courses\COS 221 Fundamental Data Structures\Course Project\MatrixCalculatorProject\KMP.cpp(12,20): warning C4018:  '<': signed/unsigned mismatch
+  main.cpp
+  Matrix.cpp
+  Matrix2D.cpp
+D:\ktsen\Documents\AUBG\Courses\COS 221 Fundamental Data Structures\Course Project\MatrixCalculatorProject\KMP.cpp(32,28): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ktsen\Documents\AUBG\Courses\COS 221 Fundamental Data Structures\Course Project\MatrixCalculatorProject\Matrix2D.cpp(86,10): warning C4018:  '>=': signed/unsigned mismatch
+  Matrix3D.cpp
+D:\ktsen\Documents\AUBG\Courses\COS 221 Fundamental Data Structures\Course Project\MatrixCalculatorProject\Matrix2D.cpp(86,24): warning C4018:  '>=': signed/unsigned mismatch
+D:\ktsen\Documents\AUBG\Courses\COS 221 Fundamental Data Structures\Course Project\MatrixCalculatorProject\Matrix3D.cpp(86,10): warning C4018:  '>=': signed/unsigned mismatch
+  Matrix4D.cpp
+D:\ktsen\Documents\AUBG\Courses\COS 221 Fundamental Data Structures\Course Project\MatrixCalculatorProject\Matrix3D.cpp(86,24): warning C4018:  '>=': signed/unsigned mismatch
+D:\ktsen\Documents\AUBG\Courses\COS 221 Fundamental Data Structures\Course Project\MatrixCalculatorProject\Matrix4D.cpp(55,10): warning C4018:  '>=': signed/unsigned mismatch
+  Prompt.cpp
+  TransMatrix2D.cpp
+D:\ktsen\Documents\AUBG\Courses\COS 221 Fundamental Data Structures\Course Project\MatrixCalculatorProject\Matrix4D.cpp(55,24): warning C4018:  '>=': signed/unsigned mismatch
+D:\ktsen\Documents\AUBG\Courses\COS 221 Fundamental Data Structures\Course Project\MatrixCalculatorProject\TransMatrix2D.cpp(74,10): warning C4018:  '>=': signed/unsigned mismatch
+  TransMatrix3D.cpp
+D:\ktsen\Documents\AUBG\Courses\COS 221 Fundamental Data Structures\Course Project\MatrixCalculatorProject\TransMatrix2D.cpp(74,24): warning C4018:  '>=': signed/unsigned mismatch
+D:\ktsen\Documents\AUBG\Courses\COS 221 Fundamental Data Structures\Course Project\MatrixCalculatorProject\TransMatrix3D.cpp(78,10): warning C4018:  '>=': signed/unsigned mismatch
+  Vector.cpp
+  Vector2D.cpp
+D:\ktsen\Documents\AUBG\Courses\COS 221 Fundamental Data Structures\Course Project\MatrixCalculatorProject\TransMatrix3D.cpp(78,24): warning C4018:  '>=': signed/unsigned mismatch
+D:\ktsen\Documents\AUBG\Courses\COS 221 Fundamental Data Structures\Course Project\MatrixCalculatorProject\Vector2D.cpp(35,12): warning C4018:  '>=': signed/unsigned mismatch
+  Vector3D.cpp
+D:\ktsen\Documents\AUBG\Courses\COS 221 Fundamental Data Structures\Course Project\MatrixCalculatorProject\Vector2D.cpp(47,12): warning C4018:  '>=': signed/unsigned mismatch
+D:\ktsen\Documents\AUBG\Courses\COS 221 Fundamental Data Structures\Course Project\MatrixCalculatorProject\Vector3D.cpp(37,12): warning C4018:  '>=': signed/unsigned mismatch
+  Vector4D.cpp
+D:\ktsen\Documents\AUBG\Courses\COS 221 Fundamental Data Structures\Course Project\MatrixCalculatorProject\Vector3D.cpp(49,12): warning C4018:  '>=': signed/unsigned mismatch
+  Generating Code...
+D:\ktsen\Documents\AUBG\Courses\COS 221 Fundamental Data Structures\Course Project\MatrixCalculatorProject\Vector4D.cpp(50,12): warning C4018:  '>=': signed/unsigned mismatch
+  MatrixCalculatorProject.vcxproj -> D:\ktsen\Documents\AUBG\Courses\COS 221 Fundamental Data Structures\Course Project\MatrixCalculatorProject\x64\Debug\MatrixCalculatorProject.exe

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Matrix Headers">
+      <UniqueIdentifier>{c0863286-ccca-46dd-9ec3-e763eec42ee0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Vector Headers">
+      <UniqueIdentifier>{474736e9-b3b3-42f4-8452-a61cab3cb820}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\TransMatrix Headers">
+      <UniqueIdentifier>{88fbbd57-1aa3-48fe-893d-0808eb0f6c1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Matrix Source">
+      <UniqueIdentifier>{d7ba3839-d3cf-4dc7-8034-376da2cce6b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Vector Source">
+      <UniqueIdentifier>{44afab10-d62b-493d-b726-36d5c2adcecd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\TransMatrix Source">
+      <UniqueIdentifier>{775d617d-ed09-4c58-822f-6611a1ba9455}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KMP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prompt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix2D.cpp">
+      <Filter>Source Files\Matrix Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix3D.cpp">
+      <Filter>Source Files\Matrix Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix4D.cpp">
+      <Filter>Source Files\Matrix Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector.cpp">
+      <Filter>Source Files\Vector Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2D.cpp">
+      <Filter>Source Files\Vector Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector3D.cpp">
+      <Filter>Source Files\Vector Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector4D.cpp">
+      <Filter>Source Files\Vector Source</Filter>
+    </ClCompile>
+    <ClCompile Include="TransMatrix2D.cpp">
+      <Filter>Source Files\TransMatrix Source</Filter>
+    </ClCompile>
+    <ClCompile Include="TransMatrix3D.cpp">
+      <Filter>Source Files\TransMatrix Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix.cpp">
+      <Filter>Source Files\Matrix Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="KMP.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Prompt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix.h">
+      <Filter>Header Files\Matrix Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix2D.h">
+      <Filter>Header Files\Matrix Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix3D.h">
+      <Filter>Header Files\Matrix Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix4D.h">
+      <Filter>Header Files\Matrix Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.h">
+      <Filter>Header Files\Vector Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2D.h">
+      <Filter>Header Files\Vector Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3D.h">
+      <Filter>Header Files\Vector Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector4D.h">
+      <Filter>Header Files\Vector Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="TransMatrix2D.h">
+      <Filter>Header Files\TransMatrix Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="TransMatrix3D.h">
+      <Filter>Header Files\TransMatrix Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

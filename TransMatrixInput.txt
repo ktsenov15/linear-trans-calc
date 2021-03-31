@@ -1,0 +1,39 @@
+2D 2
+Scaling
+x 0
+0 y
+
+3D 3
+Rotation around the y-axis
+cos(x)  0  sin(x)
+0       1  0
+-sin(x) 0  cos(x)
+
+2D 2
+Rotation
+cos(x) -sin(x)
+sin(x)  cos(x)
+
+2D 3
+Translation
+1 0 x
+0 1 y
+0 0 1
+
+3D 3
+Rotation around the x-axis
+1   0  	     0
+0   cos(x)  -sin(x)
+0   sin(x)   cos(x)
+
+3D 3
+Rotation around the z-axis
+cos(x)  -sin(x)  0
+sin(x)   cos(x)  0
+0        0       1
+
+3D 3
+Scaling
+x 0 0
+0 y 0
+0 0 z
